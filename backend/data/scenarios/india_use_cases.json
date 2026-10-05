@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Himalayan winter earthquake",
+    "question": "M6.5 earthquake in a mountainous district in January with 50,000 affected and partial road disruption. Materials and resources for first 72 hours?",
+    "scenario": {"event": {"state": "Uttarakhand", "magnitude": 6.5}, "geography": {"terrain": "mountainous"}, "environment": {"season": "winter"}, "population": {"affected_population": 50000, "population_status": "reported", "population_source": "scenario"}, "damage": {"roads_damaged": 1}, "response_phase": "0_72_hours"}
+  },
+  {
+    "name": "Bhuj 2001 historical replay",
+    "question": "Replay Bhuj 2001 earthquake response: what historical resources and guidelines are evidenced?",
+    "scenario": {"event": {"event_id": "bhuj_2001", "state": "Gujarat", "district": "Kachchh", "magnitude": 7.7, "date": "2001-01-26"}, "response_phase": "0_72_hours"}
+  },
+  {
+    "name": "Dense urban earthquake",
+    "question": "M5.8 urban earthquake with hospital damage — immediate material priorities?",
+    "scenario": {"geography": {"terrain": "urban"}, "damage": {"hospital_damage": true}, "response_phase": "0_72_hours"}
+  }
+]

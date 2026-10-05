@@ -1,0 +1,10 @@
+[
+  {"material_id": "water_potable", "category": "Water", "name": "Potable water", "unit": "liters", "per_capita_basis": null, "source": null, "authority": null, "validity": null, "phase": "0_72_hours", "notes": "Taxonomy only; no numeric standard without evidence"},
+  {"material_id": "food_ready", "category": "Food", "name": "Ready-to-eat food", "unit": "meals", "per_capita_basis": null, "source": null, "authority": null, "validity": null, "phase": "0_72_hours", "notes": null},
+  {"material_id": "shelter_tent", "category": "Shelter", "name": "Family tents / temporary shelter", "unit": "units", "per_capita_basis": null, "source": null, "authority": null, "validity": null, "phase": "0_72_hours", "notes": null},
+  {"material_id": "bedding_blanket", "category": "Bedding", "name": "Blankets", "unit": "units", "per_capita_basis": null, "source": null, "authority": null, "validity": null, "phase": "0_72_hours", "notes": null},
+  {"material_id": "medical_kit", "category": "Medical", "name": "Emergency medical supplies", "unit": "kits", "per_capita_basis": null, "source": null, "authority": null, "validity": null, "phase": "0_72_hours", "notes": null},
+  {"material_id": "hygiene_kit", "category": "Hygiene", "name": "Hygiene kits", "unit": "kits", "per_capita_basis": null, "source": null, "authority": null, "validity": null, "phase": "0_72_hours", "notes": null},
+  {"material_id": "lighting_solar", "category": "Lighting", "name": "Solar lanterns / lighting", "unit": "units", "per_capita_basis": null, "source": null, "authority": null, "validity": null, "phase": "0_72_hours", "notes": null},
+  {"material_id": "sar_equipment", "category": "Search and rescue", "name": "Search and rescue equipment", "unit": "sets", "per_capita_basis": null, "source": null, "authority": null, "validity": null, "phase": "0_72_hours", "notes": null}
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "eq_001",
+    "category": "guideline_retrieval",
+    "question": "What do Indian earthquake management guidelines recommend for the first 72 hours?",
+    "expected_sources": ["NIDM", "NDMA"]
+  },
+  {
+    "id": "eq_002",
+    "category": "historical_case_retrieval",
+    "question": "Which historical Indian earthquakes are comparable to a major Kachchh event?",
+    "expected_event_ids": ["bhuj_2001"]
+  },
+  {
+    "id": "eq_003",
+    "category": "material_retrieval",
+    "question": "What emergency shelter and bedding evidence applies to a winter Himalayan earthquake?",
+    "filters": {"terrain": "mountainous", "season": "winter"}
+  }
+]
